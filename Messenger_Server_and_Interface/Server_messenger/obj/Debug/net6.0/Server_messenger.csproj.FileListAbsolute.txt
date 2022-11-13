@@ -1,0 +1,15 @@
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\bin\Debug\net6.0\Server_messenger.exe
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\bin\Debug\net6.0\Server_messenger.deps.json
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\bin\Debug\net6.0\Server_messenger.runtimeconfig.json
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\bin\Debug\net6.0\Server_messenger.dll
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\bin\Debug\net6.0\Server_messenger.pdb
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.csproj.AssemblyReference.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.GeneratedMSBuildEditorConfig.editorconfig
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.AssemblyInfoInputs.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.AssemblyInfo.cs
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.csproj.CoreCompileInputs.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.dll
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\refint\Server_messenger.dll
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.pdb
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\Server_messenger.genruntimeconfig.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Server_messenger\obj\Debug\net6.0\ref\Server_messenger.dll

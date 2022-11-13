@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyElQuwVuurvGnKk5NjNmr2rkwc4RodHZRLg6zVwXqjGVNXzN2BN/3+IRuffFbJROouJUgl9KCX5U6IH2h9lRg==",
+  "success": true,
+  "projectFilePath": "B:\\.NET_progekts\\Messenger_Server_and_Interface\\Messanger_Interface_WPF\\Messanger_Interface_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miron\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

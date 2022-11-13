@@ -1,0 +1,17 @@
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\bin\Debug\net6.0-windows\Messenger_Server.exe
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\bin\Debug\net6.0-windows\Messenger_Server.deps.json
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\bin\Debug\net6.0-windows\Messenger_Server.runtimeconfig.json
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\bin\Debug\net6.0-windows\Messenger_Server.dll
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\bin\Debug\net6.0-windows\Messenger_Server.pdb
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.csproj.AssemblyReference.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.Form1.resources
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.csproj.GenerateResource.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.GeneratedMSBuildEditorConfig.editorconfig
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.AssemblyInfoInputs.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.AssemblyInfo.cs
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.csproj.CoreCompileInputs.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.dll
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\refint\Messenger_Server.dll
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.pdb
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\Messenger_Server.genruntimeconfig.cache
+B:\.NET_progekts\Messenger_Server_and_Interface\Messenger_Server\obj\Debug\net6.0-windows\ref\Messenger_Server.dll

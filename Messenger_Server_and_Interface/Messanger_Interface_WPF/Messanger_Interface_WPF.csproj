@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Icons\Model\" />
+    <Folder Include="Icons\View\" />
+    <Folder Include="Icons\WievModel\" />
+    <Folder Include="Core\Model\" />
+    <Folder Include="Core\View\" />
+    <Folder Include="Core\WievModel\" />
+    <Folder Include="MVVW\View\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialSkin.2" Version="2.3.1" />
+  </ItemGroup>
+
+</Project>
